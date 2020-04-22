@@ -17,7 +17,8 @@ Geographic Areas, Total populations, Population statisics over 60 and under 18, 
  
 #bar_total_pop
 ![alt text](https://github.com/Gramir10/COVID-Death-Count/blob/master/bar_total_pop.png)
-Top 20 most populous US counties
+ </br>
+ Top 20 most populous US counties
 
 #bubble_u18_o60
 ![alt text](https://github.com/Gramir10/COVID-Death-Count/blob/master/bubble_u18_o60.png)
