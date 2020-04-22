@@ -33,7 +33,7 @@ Previous graph, standardized per 1000 hospital beds.
 #county_covid19_heatmap
 ![alt text](https://github.com/Gramir10/COVID-Death-Count/blob/master/county_covid19_heatmapv2.png)
  </br>
-Notes the correlations between several variables.
+Notes the correlations between several variables. Note the lack of difference between vulnerable populations and deaths.
 
 #bubble_deaths
 ![alt text](https://github.com/Gramir10/COVID-Death-Count/blob/master/bubble_deaths.png)
@@ -54,15 +54,19 @@ Further research should look into differences between counties where low mortali
 [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19)
  </br>
 This data set lists global counts of COVID-19 cases, deaths, recovered patients as reported by county.
+ </br>
 [New York Times](https://github.com/nytimes/covid-19-data)
  </br>
 This data set is similar to the JHU CSSE COVID-19 US county-specific data but works for graphing purposes.
+ </br>
 [American Community Survey](https://data.census.gov/cedsci/table?q=United%20States&g=0100000US,.050000&tid=ACSST5Y2018.S0101&hidePreview=false&vintage=2018&layer=VT_2018_050_00_PY_D1&cid=DP05_0001E&t=Populations%20and%20People)
  </br>
 This data set (also available in the GitHub repository here) gives us in-depth reporting for US county-level population in 2018.
+ </br>
 [US Census](https://www.census.gov/geographies/reference-files/2018/demo/popest/2018-fips.html)
  </br>
 These data sets from the US Census give us geographic information (FIPS codes) for US states and counties, which allows the data from all sources to be merged by location.
+ </br>
 [Homeland Infrastructure Foundation-Level](https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals)
  </br>
 Where hospital bed data was retrieved.
