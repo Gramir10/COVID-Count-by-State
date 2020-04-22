@@ -22,18 +22,22 @@ Geographic Areas, Total populations, Population statisics over 60 and under 18, 
 
 #bubble_u18_o60
 ![alt text](https://github.com/Gramir10/COVID-Death-Count/blob/master/bubble_u18_o60.png)
+ </br>
 Identifies counties with large proportions of Over 60 or Under 18 populations, thus vulernable populations.
 
 #bubble_u18_o60_beds
 ![alt text](https://github.com/Gramir10/COVID-Death-Count/blob/master/bubble_u18_o60_beds.png)
+ </br>
 Previous graph, standardized per 1000 hospital beds.
 
 #county_covid19_heatmap
 ![alt text](https://github.com/Gramir10/COVID-Death-Count/blob/master/county_covid19_heatmapv2.png)
+ </br>
 Notes the correlations between several variables.
 
 #bubble_deaths
 ![alt text](https://github.com/Gramir10/COVID-Death-Count/blob/master/bubble_deaths.png)
+ </br>
 This graphic keeps track of number of cases, deaths, the size of the bubbles dictate the number of deaths per 1000 cases. Addititional information keeps track of which counties and size of their hospital capacity (in beds) is.
 
 # Edits/Repairs of the Data
