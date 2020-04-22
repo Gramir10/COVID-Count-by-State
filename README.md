@@ -51,14 +51,19 @@ Some variables were converted from objects, to integers, to floating numbers for
 Further research should look into differences between counties where low mortality rates exist and high mortality rates. Some areas with less hospital capacity are dealing better than ones with smaller populations and more capacity. Counties can be tracked over time using this project to determine where emergency resources should be allocated. There is little difference in the correlation between mortality rates of the two vulnerable populations, as such both must be monitored with equal importance.
 
 # Data Sources
-(Johns Hopkins University Center for Systems Science and Engineering!https://github.com/CSSEGISandData/COVID-19)
+[Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19)
+ </br>
 This data set lists global counts of COVID-19 cases, deaths, recovered patients as reported by county.
-(New York Times!https://github.com/nytimes/covid-19-data)
+[New York Times](https://github.com/nytimes/covid-19-data)
+ </br>
 This data set is similar to the JHU CSSE COVID-19 US county-specific data but works for graphing purposes.
-(American Community Survey!https://data.census.gov/cedsci/table?q=United%20States&g=0100000US,.050000&tid=ACSST5Y2018.S0101&hidePreview=false&vintage=2018&layer=VT_2018_050_00_PY_D1&cid=DP05_0001E&t=Populations%20and%20People)
+[American Community Survey](https://data.census.gov/cedsci/table?q=United%20States&g=0100000US,.050000&tid=ACSST5Y2018.S0101&hidePreview=false&vintage=2018&layer=VT_2018_050_00_PY_D1&cid=DP05_0001E&t=Populations%20and%20People)
+ </br>
 This data set (also available in the GitHub repository here) gives us in-depth reporting for US county-level population in 2018.
-(US Census!https://www.census.gov/geographies/reference-files/2018/demo/popest/2018-fips.html)
+[US Census](https://www.census.gov/geographies/reference-files/2018/demo/popest/2018-fips.html)
+ </br>
 These data sets from the US Census give us geographic information (FIPS codes) for US states and counties, which allows the data from all sources to be merged by location.
-(Homeland Infrastructure Foundation-Level!https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals)
-Where we retrieved hospital beds data.
+[Homeland Infrastructure Foundation-Level](https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals)
+ </br>
+Where hospital bed data was retrieved.
 
