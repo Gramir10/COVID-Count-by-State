@@ -28,7 +28,7 @@ Identifies counties with large proportions of Over 60 or Under 18 populations, t
 Previous graph, standardized per 1000 hospital beds.
 
 #county_covid19_heatmap
-![alt text](https://github.com/Gramir10/COVID-Death-Count/blob/master/county_covid19_heatmap.png)
+![alt text](https://github.com/Gramir10/COVID-Death-Count/blob/master/county_covid19_heatmapv2.png)
 Notes the correlations between several variables.
 
 #bubble_deaths
